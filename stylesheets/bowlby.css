@@ -1,1 +1,41 @@
 * { margin: 0; padding: 0; }
+
+body {
+  font-family: "Trebuchet MS", Arial, "MS Trebuchet", sans-serif;
+  font-size: 14px;
+  line-height: 1.6em;
+}
+
+#header {
+  position: fixed;
+  text-indent: -2000px;
+  background: url(../images/bowlby.png) no-repeat;
+  height: 125px;
+  width: 350px;
+}
+
+#info {
+  position: fixed;
+  top: 125px;
+  padding: 20px;
+  width: 310px;
+}
+
+#info h2 {
+  margin: 10px 0;
+}
+
+#bowlby-study {
+  position: absolute;
+  border: 1px orange solid;
+  left: 350px;
+  width: 650px;
+  padding: 20px;
+}
+
+a {
+  background-color: #ff6;
+  color: #000;
+  padding: 1px;
+  text-decoration: none;
+}
