@@ -1,6 +1,5 @@
 # Bowlby
 #### Screenname attachment
-***
 
 ## What is Bowlby?
 
